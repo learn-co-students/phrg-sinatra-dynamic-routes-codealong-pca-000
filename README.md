@@ -99,4 +99,8 @@ Using the example dynamic route that we included in the code-along as a template
 
 + A dynamic route starting with `/multiply` that accepts two params (num1 and num2) and returns the product of the two numbers.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-dynamic-routes-codealong/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-dynamic-routes-codealong/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Dynamic Routes in Sinatra</p>
